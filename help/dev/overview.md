@@ -31,9 +31,9 @@ This *[!DNL Adobe Target] Developer Guide* provides resources and guides for [!D
 
 ## Client-Side implementation
 
-[**Adobe Experience Platform Web SDK**](/help/dev/implement/client-side/aep-web-sdk.md): The [!DNL Adobe Experience Platform Web SDK] lets you interact with the various services in the [!DNL Experience Cloud] (including [!DNL Target]) through the [!UICONTROL Adobe Experience Edge Network].
+[**Adobe Experience Platform Web SDK**](/help/dev/implement/client-side/aep-web-sdk.md): The [!DNL Adobe Experience Platform Web SDK] lets implement various services in the [!DNL Experience Cloud] (including [!DNL Target]) simpler than ever before through the [!UICONTROL Adobe Experience Edge Network]. 
 
-[**Target at.js JavaScript library**](/help/dev/implement/client-side/overview.md): The at.js JavaScript library improves page load times for web implementations, improves security, and provides better implementation options for single-page applications. 
+[**Target at.js JavaScript library**](/help/dev/implement/client-side/overview.md): The at.js JavaScript is a Target library allows you to implementations Adobe Target on your websites. 
 
 ## Server-Side implementation
 
